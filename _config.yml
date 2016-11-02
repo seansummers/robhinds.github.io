@@ -8,6 +8,10 @@ name: Sean Summers
 markdown: kramdown
 
 #User specific content
+# intro
+intro: |
+    Hello, world!
+
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
